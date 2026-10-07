@@ -1,0 +1,29 @@
+Fix Docker build: replace removed openjdk base image: 383
+Match information-retrieval answers to expected items one-to-one: 382
+check_agent_answer is not one-to-one: repeating one correct item N times passes an N-item information-retrieval task: 380
+Isolate temporary files during recipe uploads: 378
+OrcaRouter provider support for AndroidWorld: 376
+TurnOffWifi Tasks Error: 373
+docs: reference ClawBench as an external benchmark: 372
+APK installation failures will now raise an exception: 371
+Missing File Error：No such file or directory: '/tmp/recipes.txt': 367
+RecipeDeleteMultipleRecipesWithConstraint can generate vacuous deletion tasks with an empty target set: 366
+RecipeDeleteMultipleRecipesWithConstraint generates empty targets for mixed-case ingredients: 365
+Chrome app initialization issue: 362
+`mean_success_rate = 0.5` when `num_complete_trials = 1` in benchmark results: 361
+Update A11yMethod wiring: 360
+check home button success in emulator reset: 359
+Fix the task ClockStopWatchRunning: 358
+Inquiry about Submitting ByteDance Doubao Model Score to AndroidWorld Leaderboard: 356
+Task Interference Issue: 353
+Dockerfile openjdk:18-jdk-slim image depracated?: 351
+Encountered an issue while using Docker.: 350
+TurnOffWifi Tasks Error: 349
+Request for an official AndroidWorld Docker image on DockerHub: 348
+ARM Mac image building failed: 347
+[Question] Does AndroidWorld require a GUI or does it support headless mode?: 343
+Update _input_text function to support for non-ASCII characters: 340
+Discussion: Enhancing the AndroidWorld: 339
+Update _input_text function to support for non-ASCII characters: 338
+delete_all_rows_from_table raises SQLite version error: 332
+default gpt model is very expensive: 330
